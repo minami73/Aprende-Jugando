@@ -2,6 +2,10 @@
 
 Juego educativo de preguntas y respuestas sobre finanzas personales y economía, orientado a nivel secundaria. El jugador controla un cañón y dispara hacia el bloque con la respuesta correcta.
 
+![Pantalla de inicio](assets/screenshot_inicio.png)
+
+![Gameplay](assets/screenshot_juego.png)
+
 ## Gameplay
 
 - Se muestra una pregunta en pantalla con 3 opciones de respuesta (bloques).

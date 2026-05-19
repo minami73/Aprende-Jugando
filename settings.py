@@ -3,8 +3,8 @@
 # ============================================================
 
 # Pantalla
-ANCHO = 1600
-ALTO  = 900
+ANCHO = 1280
+ALTO  = 720
 FPS   = 60
 TITULO = "Aprende Jugando – Finanzas"
 
